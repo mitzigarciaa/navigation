@@ -7,7 +7,7 @@ header .logo a {
     text-decoration: none;
     background: linear-gradient(90deg, var(--secondary-color), var(--background-color)); 
     -webkit-background-clip: text;
-    margin-left: -80px;
+    margin-left: 0px;
 }
 
 header .logo a span {
